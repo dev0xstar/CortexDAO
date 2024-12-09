@@ -4709,14 +4709,6 @@
             widthMb: "75%",
             id: "umbrella",
           },
-          {
-            icon: Object(Be.jsx)(ta, {}),
-            label: "Secure and audited smart contracts.",
-            id: "safe",
-            width: "44%",
-            widthMb: "52%",
-            widthTb: "40%",
-          },
         ],
         oa = Object(l.d)(Si.a.div)(
           Ti ||
