@@ -6921,10 +6921,6 @@
                                 );
                               }),
                             }),
-                            Object(Be.jsx)(xc, {
-                              style: { textDecoration: "underline" },
-                              children: "Docs",
-                            }),
                           ],
                         }),
                       ],
