@@ -6642,7 +6642,7 @@
                 Object(Be.jsxs)(dc, {
                   children: [
                     Object(Be.jsx)("a", {
-                      href: "https://docs.cortexdao.com/tokenomics/usdcxd",
+                      href: "https://angrybird4837s-organization.gitbook.io/cortexdao/fundamentals/tokenomics-101",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: Object(Be.jsx)(cc, {
