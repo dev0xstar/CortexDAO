@@ -3920,7 +3920,7 @@
           },
           {
             label: "Telegram",
-            url: "https://t.me/cortexdao",
+            url: "https://t.me/cortexxdao",
             logo: Object(Be.jsx)(At, {}),
           },
         ],
@@ -4209,7 +4209,7 @@
               gap: 5,
               children: [
                 Object(Be.jsx)(di, {
-                  href: "https://t.me/cortexdao",
+                  href: "https://t.me/cortexxdao",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   children: Object(Be.jsx)(oi, {}),
