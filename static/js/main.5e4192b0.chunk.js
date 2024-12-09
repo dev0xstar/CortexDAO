@@ -3914,11 +3914,6 @@
         },
         Ut = [
           {
-            label: "Medium",
-            url: "https://medium.com/@CortexDAO",
-            logo: Object(Be.jsx)(Nt, {}),
-          },
-          {
             label: "Twitter",
             url: "https://twitter.com/CortexDAO",
             logo: Object(Be.jsx)(Rt, {}),
@@ -3934,6 +3929,7 @@
           { label: "Tokenomics", hash: "/#tokenomics" },
           { label: "DAO", hash: "/#dao" },
           { label: "CXD Token", hash: "/#cxd-token" },
+          { label: "Community", nav: Ut },
         ],
         Gt = function (e) {
           var n = e.item;
