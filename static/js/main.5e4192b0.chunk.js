@@ -7289,7 +7289,7 @@
                                     }),
                                   }),
                                   Object(Be.jsx)("a", {
-                                    href: "https://docs.cortexdao.com/fundamentals/tokenomics-101",
+                                    href: "https://angrybird4837s-organization.gitbook.io/cortexdao/fundamentals/tokenomics-101",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     children: Object(Be.jsx)(Fc, {
