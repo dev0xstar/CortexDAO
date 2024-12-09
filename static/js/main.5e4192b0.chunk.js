@@ -3934,7 +3934,6 @@
           { label: "Tokenomics", hash: "/#tokenomics" },
           { label: "DAO", hash: "/#dao" },
           { label: "CXD Token", hash: "/#cxd-token" },
-          { label: "Community", nav: Ut },
         ],
         Gt = function (e) {
           var n = e.item;
