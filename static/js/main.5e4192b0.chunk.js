@@ -6116,7 +6116,7 @@
                         }),
                       }),
                       Object(Be.jsx)("a", {
-                        href: "https://docs.cortexdao.com/the-convex-index/whitepaper",
+                        href: "https://angrybird4837s-organization.gitbook.io/cortexdao/the-convex-index/whitepaper",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: Object(Be.jsx)(Fs, {
