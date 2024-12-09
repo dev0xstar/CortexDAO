@@ -3915,7 +3915,7 @@
         Ut = [
           {
             label: "Twitter",
-            url: "https://twitter.com/CortexDAO",
+            url: "https://twitter.com/CortexDAO_",
             logo: Object(Be.jsx)(Rt, {}),
           },
           {
@@ -4215,7 +4215,7 @@
                   children: Object(Be.jsx)(oi, {}),
                 }),
                 Object(Be.jsx)(di, {
-                  href: "https://twitter.com/CortexDAO",
+                  href: "https://twitter.com/CortexDAO_",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   children: Object(Be.jsx)(Rt, {}),
@@ -6161,7 +6161,7 @@
                         ],
                       }),
                       Object(Be.jsx)("a", {
-                        href: "https://twitter.com/CortexDAO",
+                        href: "https://twitter.com/CortexDAO_",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: Object(Be.jsx)(Fs, {
@@ -11553,7 +11553,7 @@
                 children: [
                   "Join our community on Twitter!",
                   Object(Be.jsx)("a", {
-                    href: "https://twitter.com/CortexDAO",
+                    href: "https://twitter.com/CortexDAO_",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     children: Object(Be.jsx)(Un, {
