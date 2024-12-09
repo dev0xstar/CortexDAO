@@ -5125,7 +5125,7 @@
               }),
               !i &&
                 Object(Be.jsx)("a", {
-                  href: "https://docs.cortexdao.com/fundamentals/convex-index-101",
+                  href: "https://angrybird4837s-organization.gitbook.io/cortexdao/fundamentals/convex-index-101",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   children: Object(Be.jsx)(Fo, {
@@ -5239,7 +5239,7 @@
                         }),
                         n &&
                           Object(Be.jsx)("a", {
-                            href: "https://docs.cortexdao.com/fundamentals/convex-index-101",
+                            href: "https://angrybird4837s-organization.gitbook.io/cortexdao/fundamentals/convex-index-101",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             children: Object(Be.jsx)(Vo, {
